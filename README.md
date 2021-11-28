@@ -1,2 +1,2 @@
 # SRB2-KART
-codeing
+just a .sh
