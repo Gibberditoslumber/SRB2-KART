@@ -1,0 +1,1 @@
+git clone https://github.com/STJr/Kart-Public.git && cd Kart-Public && make -C src/ LINUX64=1
