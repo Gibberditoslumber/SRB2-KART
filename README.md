@@ -1,2 +1,2 @@
 # SRB2-KART
-just a .sh to build it 
+just a .sh to build it
